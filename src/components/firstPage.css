@@ -1,0 +1,49 @@
+body {
+  width: 70%;
+  margin-top: 5%;
+  margin-left: 15%;
+
+  background-color: bisque;
+}
+.bar1_detail {
+  display: flex;
+  justify-content: space-between;
+}
+.container {
+  background-color: white;
+  padding: 4rem;
+  border-radius: 2rem;
+}
+.bar2_detail {
+  display: flex;
+}
+.black_bar {
+  width: 70%;
+  height: 3px;
+  background-color: black;
+}
+.white_bar {
+  width: 30%;
+  height: 3px;
+  background-color: rgb(216, 215, 215);
+}
+.cards {
+  display: flex;
+  justify-content: space-between;
+}
+
+.card1 {
+  width: 15rem;
+  height: 6rem;
+  background-color: rgb(255, 231, 123);
+  border-radius: 1rem;
+  padding: 1rem;
+}
+
+.card2 {
+  width: 15rem;
+  height: 6rem;
+  background-color: rgb(255, 231, 123);
+  border-radius: 1rem;
+  padding: 1rem;
+}
